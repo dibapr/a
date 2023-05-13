@@ -13,6 +13,7 @@ Tools yang dipakai:
 2. buka terminal, jalanin deployment server nya
 
 ```npm run dev```
+
 3. buka terminal lagi, jalanin json server nya
 
 ```json-server --watch db.json --port {port berapa aja terserah}```
